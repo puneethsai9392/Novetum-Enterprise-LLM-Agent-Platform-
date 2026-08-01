@@ -1,0 +1,106 @@
+[
+  {
+    "question": "What is Artificial Intelligence?",
+    "answer": "Artificial Intelligence is a field of computer science that enables machines to perform tasks that normally require human intelligence such as reasoning, learning, and decision making."
+  },
+  {
+    "question": "What is Machine Learning?",
+    "answer": "Machine Learning is a branch of AI that allows systems to learn patterns from data and improve performance without being explicitly programmed."
+  },
+  {
+    "question": "What is Deep Learning?",
+    "answer": "Deep Learning is a subset of Machine Learning that uses neural networks with multiple layers to learn complex patterns from large amounts of data."
+  },
+  {
+    "question": "What is an LLM?",
+    "answer": "LLM stands for Large Language Model. It is an AI model trained on massive text datasets to understand and generate human-like language."
+  },
+  {
+    "question": "What is Generative AI?",
+    "answer": "Generative AI refers to models that can create new content such as text, images, code, audio, and videos based on learned patterns."
+  },
+  {
+    "question": "What is Natural Language Processing?",
+    "answer": "Natural Language Processing is a branch of AI that enables computers to understand, process, and generate human language."
+  },
+  {
+    "question": "What is a Transformer model?",
+    "answer": "Transformer is a neural network architecture that uses attention mechanisms to process sequential data efficiently and powers many modern LLMs."
+  },
+  {
+    "question": "What is Attention Mechanism?",
+    "answer": "Attention mechanism allows models to focus on important parts of input data while generating outputs."
+  },
+  {
+    "question": "What is Prompt Engineering?",
+    "answer": "Prompt Engineering is the process of designing effective instructions to get better outputs from AI models."
+  },
+  {
+    "question": "What is Few Shot Learning?",
+    "answer": "Few Shot Learning allows AI models to perform tasks by learning from a small number of examples provided in the prompt."
+  },
+  {
+    "question": "What is RAG?",
+    "answer": "RAG stands for Retrieval Augmented Generation. It combines information retrieval with LLM generation to provide more accurate and context-aware responses."
+  },
+  {
+    "question": "Why is RAG used?",
+    "answer": "RAG is used to provide external knowledge to LLMs, reduce hallucination, and answer questions using private or updated data."
+  },
+  {
+    "question": "What is Vector Database?",
+    "answer": "A Vector Database stores numerical representations of data called embeddings and enables semantic similarity search."
+  },
+  {
+    "question": "What are embeddings?",
+    "answer": "Embeddings are numerical representations of text, images, or other data that capture semantic meaning."
+  },
+  {
+    "question": "What is ChromaDB?",
+    "answer": "ChromaDB is an open-source vector database used for storing embeddings and performing similarity search in AI applications."
+  },
+  {
+    "question": "What is Hybrid Search?",
+    "answer": "Hybrid Search combines keyword-based retrieval and semantic vector search to improve information retrieval accuracy."
+  },
+  {
+    "question": "What is BM25?",
+    "answer": "BM25 is a keyword-based ranking algorithm used in information retrieval systems to find relevant documents."
+  },
+  {
+    "question": "What is Semantic Search?",
+    "answer": "Semantic Search retrieves information based on meaning rather than only matching exact keywords."
+  },
+  {
+    "question": "What is LangChain?",
+    "answer": "LangChain is a framework for developing applications powered by large language models using chains, tools, memory, and agents."
+  },
+  {
+    "question": "What is LangGraph?",
+    "answer": "LangGraph is a framework for building stateful and multi-agent AI workflows using graph-based execution."
+  },
+  {
+    "question": "Why use LangGraph?",
+    "answer": "LangGraph helps create complex AI agents with memory, state management, conditional routing, and multi-step reasoning."
+  },
+  {
+    "question": "What is an AI Agent?",
+    "answer": "An AI Agent is a system that can perceive inputs, reason, use tools, and perform actions to achieve goals."
+  },
+  {
+    "question": "What is an Agent Workflow?",
+    "answer": "An Agent Workflow defines the sequence of steps an AI agent follows to process requests and complete tasks."
+  },
+  {
+    "question": "What is MCP?",
+    "answer": "Model Context Protocol is a standard that enables AI models to securely connect with external tools, data sources, and applications."
+  },
+  {
+    "question": "Why is MCP important?",
+    "answer": "MCP provides a standardized way for AI models to interact with external systems and tools."
+  },
+  {
+    "question": "what is python",
+    "answer": "pyhon is general purpose programming language it is based on object oriented programming lanhuage"
+  }
+]
